@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="FastConsoleUI">
+      <HintPath>..\..\FastConsoleUI\FastConsoleUI\bin\Release\netstandard2.0\FastConsoleUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
